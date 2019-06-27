@@ -1,0 +1,14 @@
+ISTALAÇÃO:
+
+1 - Para a instalação deste plugin devem ser alocados os modelos contidos na pasta 'modelos' no diretório de caminho similar: C:\Users\<<nomedousuario>>\AppData\Roaming\QGIS\QGIS3\profiles\default\processing
+
+2 - Quanto à pasta 'alt_loc_rod', esta deve ser alocada inteiramente na pasta 'm
+
+3 - Deve-se instalar o plugin através do repositório de plugins do QGIS;
+
+UTILIZAÇÃO:
+
+1 - Todos os shapefiles utilizados no plugin devem estar projetados em UTM;
+
+2 - Independentemente se você não clicar (não inserir um check na ánalise espacial), aparecerá alguma camada no campo do vetor desta análise. Se você optou por não realizar esta análise, o vetor que aparecer no campo não será utilizado. Só serão utilizados os vetores cujas análises espaciais terão um 'check' na opção de check.
+
